@@ -81,7 +81,7 @@ else
 	svn checkout https://github.com/EOSIO/eosio.contracts/trunk/eosio.wrap
 fi
 # -----------------------------------------------------------------
-# eosio.token
+# eos-api
 if [[ -d "eos-api" ]]; then
 	# echo "eos-api folder exist"
 	cd eos-api

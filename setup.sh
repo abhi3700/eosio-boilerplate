@@ -34,7 +34,7 @@ if [[ -d "eosio.bios" ]]; then
 	cd ..
 else
 	# echo "eosio.bios folder NOT exist"
-	svn checkout https://github.com/EOSIO/eosio.contracts/trunk/eosio.bios
+	svn checkout https://github.com/EOSIO/eosio.contracts/trunk/contracts/eosio.bios
 fi
 # -----------------------------------------------------------------
 # eosio.msig
@@ -45,7 +45,7 @@ if [[ -d "eosio.msig" ]]; then
 	cd ..
 else
 	# echo "eosio.bios folder NOT exist"
-	svn checkout https://github.com/EOSIO/eosio.contracts/trunk/eosio.msig
+	svn checkout https://github.com/EOSIO/eosio.contracts/trunk/contracts/eosio.msig
 fi
 # -----------------------------------------------------------------
 # eosio.system
@@ -56,7 +56,7 @@ if [[ -d "eosio.system" ]]; then
 	cd ..
 else
 	# echo "eosio.system folder NOT exist"
-	svn checkout https://github.com/EOSIO/eosio.contracts/trunk/eosio.system
+	svn checkout https://github.com/EOSIO/eosio.contracts/trunk/contracts/eosio.system
 fi
 # -----------------------------------------------------------------
 # eosio.token
@@ -67,7 +67,7 @@ if [[ -d "eosio.token" ]]; then
 	cd ..
 else
 	# echo "eosio.token folder NOT exist"
-	svn checkout https://github.com/EOSIO/eosio.contracts/trunk/eosio.token
+	svn checkout https://github.com/EOSIO/eosio.contracts/trunk/contracts/eosio.token
 fi
 # -----------------------------------------------------------------
 # eosio.wrap
@@ -78,7 +78,7 @@ if [[ -d "eosio.wrap" ]]; then
 	cd ..
 else
 	# echo "eosio.wrap folder NOT exist"
-	svn checkout https://github.com/EOSIO/eosio.contracts/trunk/eosio.wrap
+	svn checkout https://github.com/EOSIO/eosio.contracts/trunk/contracts/eosio.wrap
 fi
 # -----------------------------------------------------------------
 # eos-api

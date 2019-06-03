@@ -31,7 +31,9 @@ Dependency repositories:
   ```
 
 ## Setup for Dependency Libraries
-Follow the steps:
+- Just execute `setup.sh` bash script file and run on Linux system.
+
+Otherwise, follow the steps (detailed below):
 
 ### Part A: EOSIO libraries
 * Repository: [eosio.cdt](https://github.com/EOSIO/eosio.cdt.git) repo.

@@ -95,4 +95,3 @@ Otherwise, follow the steps (detailed below):
     + `cd eos-api`
     + `git pull`
 
-##### NOTE: Make a bash file for all the `git` & `svn` operations - [setup.sh](https://github.com/abhi3700/eosio-boilerplate/blob/master/setup.sh)
